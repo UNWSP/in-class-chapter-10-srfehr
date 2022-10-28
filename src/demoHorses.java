@@ -13,7 +13,8 @@ public class demoHorses {
 		horse2.setRaces(3);
 		
 		System.out.println(horse1.getName()+", "+horse1.getColor()+", "+horse1.getBirthYear());
-		System.out.println(horse2.getName()+", "+horse2.getColor()+", "+horse2.getBirthYear()+", "+horse2.getRaces());
+		System.out.println(horse2.getName()+", "+horse2.getColor()+
+				", "+horse2.getBirthYear()+", "+horse2.getRaces());
 		
 	}
 }
